@@ -10,3 +10,4 @@ jobs:
         with:
           MY_NAME: "Herve"
           MY_GOAL: "Testing github action"
+          MY_FILENAME: "test.zip"
