@@ -7,6 +7,14 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
+  MY_GOAL:
+    description: "What you want to do"
+    required: true
+    default: "Learning"
+  MY_FILENAME:
+    description: "The output file"
+    required: true
+    default: "null.zip"
 
 runs:
   using: "docker"
